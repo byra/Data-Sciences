@@ -20,6 +20,7 @@ Steps to run the code:
        python3 code.py
        
 Sample output:
+
 Positive tweets percentage: 47 %
 
 Negative tweets percentage: 19 %
