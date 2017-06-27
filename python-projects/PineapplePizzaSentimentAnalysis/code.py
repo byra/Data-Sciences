@@ -9,10 +9,10 @@ class SentimentalAnalysis():
     
     def __init__(self):
         # Authentication variables
-        access_token = "2601075866-96WLzrpduzQ4kwFzj5SAVi3bBJ80bkDJ6tbMCi9"
-        access_token_secret = "r34u8TCadZjeIx0CvDk2e6Bzy8wK8y89KLyYt0J0gUkzq"
-        consumer_key = "VSAL7j5cFk0X4XdXxwKhHhoIE"
-        consumer_secret = "RqmDWXCRRnL1QWl5QxcZGmEGL5njak8gL8TjqpL0rqPEC4Uyfr"
+        access_token = "Your access_token"
+        access_token_secret = "Your access_token_secret"
+        consumer_key = "Your consumer_key"
+        consumer_secret = "Your consumer_secret"
         
         # Authentication attempt
         try:
