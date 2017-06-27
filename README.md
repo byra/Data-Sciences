@@ -1,2 +1,2 @@
-# Data-Sciences-
+# Data-Sciences
 Data Sciences Projects
