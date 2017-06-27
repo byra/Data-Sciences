@@ -1,5 +1,5 @@
 Twitter Sentimental Analysis on Pineapple Pizza 
-Programming language used: Python3
+Programming language used: Python3, Sentiment classifier using TextBlob package 
 
 '''Get Twitter's access_token, access_token_secret, consumer_key and consumer_secret to get tweets''' 
 
