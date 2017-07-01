@@ -8,7 +8,7 @@ Files included:
 
 Packages installation:
 
-1. pip install -U scikit-learn
+1. pip3 install -U scikit-learn
 2. pip3 install numpy
 3. pip3 install pandas
 
