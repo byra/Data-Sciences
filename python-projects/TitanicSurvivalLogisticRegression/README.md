@@ -22,10 +22,14 @@ Steps to run the code:
        
 Sample output:
 Accuracy of the Model
+
 0.952153110048
+
 Confusion Matrix:
+
 [[254  12]
  [  8 144]]
+ 
              precision    recall  f1-score   support
 
           0       0.97      0.95      0.96       266
