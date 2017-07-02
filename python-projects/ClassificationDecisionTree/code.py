@@ -8,8 +8,8 @@ from sklearn.metrics import accuracy_score
 from matplotlib import pyplot as plt
 
 #load data_1 in program
-train_dataset_1 = pd.read_csv('/Users/Byra/Desktop/dataset/training_set1.csv')
-validation_dataset_1 = pd.read_csv('/Users/Byra/Desktop/dataset/validation_set1.csv')
+train_dataset_1 = pd.read_csv('dataset/training_set1.csv')
+validation_dataset_1 = pd.read_csv('dataset/validation_set1.csv')
 test_dataset_1 = pd.read_csv('/Users/Byra/Desktop/dataset/test_set1.csv')
 
 #append train and validation dataset 
