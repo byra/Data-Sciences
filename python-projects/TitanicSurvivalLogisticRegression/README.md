@@ -28,6 +28,7 @@ Accuracy of the Model
 Confusion Matrix:
 
 [[254  12]
+
  [  8 144]]
  
              precision    recall  f1-score   support
@@ -35,4 +36,4 @@ Confusion Matrix:
           0       0.97      0.95      0.96       266
           1       0.92      0.95      0.94       152
 
-avg / total       0.95      0.95      0.95       418
+       avg / total       0.95      0.95      0.95       418
