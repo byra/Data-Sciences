@@ -22,6 +22,9 @@ Steps to run the code:
  Sample output:
 
 ('Best l1_ratio :', 0.94999999999999996)
+
 ('Best alpha :', 1)
+
 Try again for more precision with l1_ratio centered around 0.95
+
 RMSE: 568.9247242
